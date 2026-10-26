@@ -1,0 +1,14 @@
+C:\Users\lili\Desktop\PROJETOS INTERNOS E EXTERNOS -- THELUVAS\CSharp\bin\Debug\net10.0\CSharp.exe
+C:\Users\lili\Desktop\PROJETOS INTERNOS E EXTERNOS -- THELUVAS\CSharp\bin\Debug\net10.0\CSharp.deps.json
+C:\Users\lili\Desktop\PROJETOS INTERNOS E EXTERNOS -- THELUVAS\CSharp\bin\Debug\net10.0\CSharp.runtimeconfig.json
+C:\Users\lili\Desktop\PROJETOS INTERNOS E EXTERNOS -- THELUVAS\CSharp\bin\Debug\net10.0\CSharp.dll
+C:\Users\lili\Desktop\PROJETOS INTERNOS E EXTERNOS -- THELUVAS\CSharp\bin\Debug\net10.0\CSharp.pdb
+C:\Users\lili\Desktop\PROJETOS INTERNOS E EXTERNOS -- THELUVAS\CSharp\obj\Debug\net10.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lili\Desktop\PROJETOS INTERNOS E EXTERNOS -- THELUVAS\CSharp\obj\Debug\net10.0\CSharp.AssemblyInfoInputs.cache
+C:\Users\lili\Desktop\PROJETOS INTERNOS E EXTERNOS -- THELUVAS\CSharp\obj\Debug\net10.0\CSharp.AssemblyInfo.cs
+C:\Users\lili\Desktop\PROJETOS INTERNOS E EXTERNOS -- THELUVAS\CSharp\obj\Debug\net10.0\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\lili\Desktop\PROJETOS INTERNOS E EXTERNOS -- THELUVAS\CSharp\obj\Debug\net10.0\CSharp.dll
+C:\Users\lili\Desktop\PROJETOS INTERNOS E EXTERNOS -- THELUVAS\CSharp\obj\Debug\net10.0\refint\CSharp.dll
+C:\Users\lili\Desktop\PROJETOS INTERNOS E EXTERNOS -- THELUVAS\CSharp\obj\Debug\net10.0\CSharp.pdb
+C:\Users\lili\Desktop\PROJETOS INTERNOS E EXTERNOS -- THELUVAS\CSharp\obj\Debug\net10.0\CSharp.genruntimeconfig.cache
+C:\Users\lili\Desktop\PROJETOS INTERNOS E EXTERNOS -- THELUVAS\CSharp\obj\Debug\net10.0\ref\CSharp.dll
